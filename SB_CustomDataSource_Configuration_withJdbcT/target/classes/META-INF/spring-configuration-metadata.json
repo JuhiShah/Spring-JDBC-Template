@@ -1,0 +1,10 @@
+{
+  "groups": [{
+    "name": "app.datasource",
+    "type": "javax.sql.DataSource",
+    "sourceType": "com.my.sb.dbconfig.DataSourceConfig",
+    "sourceMethod": "public javax.sql.DataSource barDataSource() "
+  }],
+  "properties": [],
+  "hints": []
+}
